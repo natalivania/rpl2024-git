@@ -1,3 +1,5 @@
 coba github
 - belajar github
 - nanti belajar gitlab
+- buat modul github
+- buat modul CT
